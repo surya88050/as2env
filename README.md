@@ -1,2 +1,2 @@
-# as2env
+# AS2ENV
 A step towards Environment
